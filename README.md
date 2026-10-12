@@ -37,3 +37,10 @@ Through this project, I practised structuring a webpage with HTML, styling it wi
 Chinaza
 
 GitHub: https://github.com/preciouschinazachigbo-svg
+
+## Future Improvements
+
+- Add a profile photo.
+- Include more personal projects as I learn.
+- Improve website accessibility.
+- Continue learning HTML and CSS.
